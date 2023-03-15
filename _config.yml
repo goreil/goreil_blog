@@ -21,10 +21,14 @@
 title: Let's go reil!
 email: youheng.lue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  On this website I'm writing down Tips for common problems I had as well as
-  my CV (Youheng Lü) for recruiters.
+  On this website I'm writing down Tips for common problems I had 
+# Local
+# baseurl: "/goreil_blog" 
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# for the website
 baseurl: "goreil_blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://youheng-lue.github.io"
+
 # twitter_username: 
 github_username:  Youheng-Lue
 
